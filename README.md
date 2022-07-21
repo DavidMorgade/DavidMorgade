@@ -9,9 +9,6 @@ Currently **studying** design and development of web applications.
 
 💙 I like and hate FrontEnd at the same time. 💙
 
-
-🔜🔜🔜🔜🔜🔜🔜🔜🔜
-
 ---
 💠 I can defend my self with 💠
    - HTML5
