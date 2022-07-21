@@ -11,6 +11,7 @@ Currently **studying** design and development of web applications.
 
 ---
 💠 I can defend my self with 💠
+   - PHP
    - HTML5
    - Javascript 
    - CSS (SASS, SCSS)
