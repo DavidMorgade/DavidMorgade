@@ -10,8 +10,6 @@ Currently **studying** design and development of web applications.
 💙 I like and hate FrontEnd at the same time. 💙
 
 
-➡️ I want to start my road to Backend as soon as possible ⬅️
-
 🔜🔜🔜🔜🔜🔜🔜🔜🔜
 
 ---
@@ -19,12 +17,12 @@ Currently **studying** design and development of web applications.
    - HTML5
    - Javascript 
    - CSS (SASS, SCSS)
-   - PHP (Laravel)
-   - SQL
+   - React (React 18), NextJS
+   - NodeJS, Express
+   - MongoDB, Firebase
 ---
 💠 I want to defend my self soon with 💠
-  - Node.js
-  - MongoDB
-  - Express
+  - Material UI
+  - SQL
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMorgade&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
