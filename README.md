@@ -24,3 +24,7 @@ Currently **studying** design and development of web applications.
   - SQL
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMorgade&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+Visitors:
+---
+![](https://komarev.com/ghpvc/?username=DavidMorgade&color=ff69b4)
