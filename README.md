@@ -166,6 +166,3 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<h2 style="color:#219ca2;font-weight:bold;font-style:italic;padding:3rem" align="center" >Stats</h2>
-<br/>
