@@ -169,15 +169,3 @@
 <br/>
 <h2 style="color:#219ca2;font-weight:bold;font-style:italic;padding:3rem" align="center" >Stats</h2>
 <br/>
-<br/>
-<div style="margin-top:5rem;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidMorgade&theme=algolia&show_icons=true&bg_color=219ca2&title_color=000" alt="Github Stats">
-</div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<p style="font-size:10px;margin-top:20rem;" align="right">I use arch btw</p>
