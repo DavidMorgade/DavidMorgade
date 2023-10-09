@@ -166,3 +166,6 @@
 <br/>
 <br/>
 <br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMorgade&layout=pie&langs_count=8&theme=dark"/>
+</p>
