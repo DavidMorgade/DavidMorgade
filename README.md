@@ -88,7 +88,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://readme-stats-selfhosted-ozp48m5un-davidmorgades-projects.vercel.app/api/top-langs/?username=DavidMorgade&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&hide=powershell,css,html,shell,scss"/>
+  <img  align="center"  src="https://readme-stats-selfhosted-ozp48m5un-davidmorgades-projects.vercel.app/api/top-langs/?username=DavidMorgade&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&hide=powershell,css,html,shell,scss,mdx"/>
 
   </td>
 </tr>
