@@ -82,7 +82,7 @@
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=DavidMorgade&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://readme-stats-selfhosted-ozp48m5un-davidmorgades-projects.vercel.app/api?username=DavidMorgade&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 </td>
 
